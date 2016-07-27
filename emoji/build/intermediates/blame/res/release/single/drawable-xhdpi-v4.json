@@ -1,0 +1,1170 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_qian.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_qian.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_chanzui.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_chanzui.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shengbing.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shengbing.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_hufen.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_hufen.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_feiji.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_feiji.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_quantou.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_quantou.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_ganbei.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_ganbei.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yinxian.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yinxian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_bizui.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_bizui.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_haha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_haha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_zan.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_zan.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ruo.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ruo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_madaochenggong.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_madaochenggong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\l_xin.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\l_xin.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_v5.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_v5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_beishang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_beishang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_hehe.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_hehe.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_heixian.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_heixian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_heng.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_heng.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_tu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_tu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_point_select.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\indicator_point_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_zan.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_zan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_shachenbao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_shachenbao.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ruo.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ruo.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_zuoyi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_zuoyi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_aini.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_aini.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_landelini.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_landelini.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_zhong.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_zhong.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_weiguan.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_weiguan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_haixiu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_haixiu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_ganbei.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_ganbei.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ye.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ye.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_point_nomal.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\indicator_point_nomal.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zuiyou.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zuiyou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_zhi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_zhi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_chanzui.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_chanzui.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_sikao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_sikao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_bishi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_bishi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhuakuang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhuakuang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_baibai.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_baibai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_lei.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_lei.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_beishang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_beishang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_evangelist_tip.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\ic_evangelist_tip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_qinqin.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_qinqin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_youhengheng.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_youhengheng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_good.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_good.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_miao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_miao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_heng.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_heng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_zuoyi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_zuoyi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_keai.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_keai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_lai.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_lai.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_touxiao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_touxiao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_lai.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_lai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nvhaier.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nvhaier.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_taiyang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_taiyang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_yueliang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_yueliang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_sikao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_sikao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_point_nomal.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\indicator_point_nomal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_aoteman.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_aoteman.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shayan.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shayan.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_dangao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_dangao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_guzhang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_guzhang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_tu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_tu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_xianhua.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_xianhua.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shayan.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shayan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_kelian.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_kelian.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhajipijiu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhajipijiu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_zhaoxiangji.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_zhaoxiangji.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ku.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ku.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_huaxin.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_huaxin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ye.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ye.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_tuzi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_tuzi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_weifeng.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_weifeng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shuijiao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shuijiao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yinxian.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yinxian.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_weiguan.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_weiguan.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_huatong.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_huatong.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_buyao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_buyao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_jiong.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_jiong.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_lvsidai.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_lvsidai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_xiayu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_xiayu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xixi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xixi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_yueliang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_yueliang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_geili.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_geili.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_feizao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_feizao.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ok.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ok.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_bizui.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_bizui.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_doge.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_doge.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhutou.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhutou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_landelini.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_landelini.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_weiqu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_weiqu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xiongmao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xiongmao.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_feiji.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_feiji.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xiaoku.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xiaoku.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_fuyun.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_fuyun.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_zhaoxiangji.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_zhaoxiangji.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_youhengheng.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_youhengheng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zuiyou.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zuiyou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_kun.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_kun.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_jiyan.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_jiyan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_wabishi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_wabishi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shuai.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shuai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_shenma.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_shenma.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_aini.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_aini.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_qinqin.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_qinqin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_chijing.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_chijing.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_haha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_haha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_numa.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_numa.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_xi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_xi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_qian.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_qian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_shenma.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_shenma.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_meng.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_meng.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_madaochenggong.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_madaochenggong.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_lazhu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_lazhu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yiwen.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yiwen.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ku.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ku.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_liwu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_liwu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_weifeng.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_weifeng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_huatong.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_huatong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shuijiao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shuijiao.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ganmao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ganmao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shiwang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shiwang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhajipijiu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhajipijiu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_weiqu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_weiqu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_jiyan.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_jiyan.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_lvsidai.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_lvsidai.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nanhaier.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nanhaier.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ganmao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ganmao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\face_delete.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\face_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ding.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ding.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_yinyue.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_yinyue.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xixi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xixi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_chijing.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_chijing.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_yinyue.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_yinyue.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_taikaixin.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_taikaixin.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xiongmao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xiongmao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_dahaqi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_dahaqi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shenshou.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shenshou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_dangao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_dangao.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\face_delete.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\face_delete.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_v5.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_v5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shuai.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shuai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yun.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yun.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_weibo.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_weibo.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yiwen.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yiwen.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_lazhu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_lazhu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_point_select.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\indicator_point_select.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nvhaier.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nvhaier.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_han.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_han.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_ding.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_ding.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_weibo.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_weibo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_xiaoku.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_xiaoku.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_dalian.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_dalian.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nanhaier.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nanhaier.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_heixian.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_heixian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_kun.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_kun.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_jiong.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_jiong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_buyao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_buyao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_xianhua.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_xianhua.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_wabishi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_wabishi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_numa.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_numa.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_baibai.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_baibai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_haha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_haha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_lei.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_lei.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_xiayu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_xiayu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_woshou.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_woshou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_liwu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_liwu.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_haixiu.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_haixiu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_quantou.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_quantou.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_meng.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_meng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\o_zhong.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\o_zhong.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shenshou.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shenshou.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_xi.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_xi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_fuyun.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_fuyun.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_haha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_haha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_evangelist_tip.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\ic_evangelist_tip.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_woshou.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_woshou.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhutou.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhutou.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_taikaixin.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_taikaixin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_ok.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_ok.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_shachenbao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_shachenbao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zuohengheng.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zuohengheng.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_dahaqi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_dahaqi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_geili.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_geili.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_feizao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_feizao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shengbing.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shengbing.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_shiwang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_shiwang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\h_good.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\h_good.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_kelian.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_kelian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_miao.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_miao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_nu.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_nu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_han.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_han.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zuohengheng.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zuohengheng.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_doge.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_doge.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_bishi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_bishi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_huaxin.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_huaxin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_hufen.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_hufen.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\l_shangxin.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\l_shangxin.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_guzhang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_guzhang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_zhuakuang.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_zhuakuang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\l_xin.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\l_xin.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\l_shangxin.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\l_shangxin.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\w_taiyang.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\w_taiyang.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_aoteman.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_aoteman.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_hehe.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_hehe.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_yun.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_yun.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_dalian.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_dalian.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_tuzi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_tuzi.png"
+    },
+    {
+        "merged": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f_zhi.png",
+        "source": "G:\\androidDev\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\f_zhi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_keai.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_keai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\MyFirstApp9\\emoji\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\d_touxiao.png",
+        "source": "D:\\AndroidProject\\MyFirstApp9\\emoji\\src\\main\\res\\drawable-xhdpi\\d_touxiao.png"
+    }
+]

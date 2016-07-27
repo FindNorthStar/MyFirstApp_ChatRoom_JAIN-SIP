@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="edit_IP">enter IP</string>
+    <string name="edit_Port">enter Port</string>
+    <string name="edit_Name">enter Name</string>
+    <string name="action_sign_in">Login</string>
+    <string name="default_IP">192.168.137.89</string>
+    <!--<string name="default_IP">10.125.103.139</string>-->
+    <!--<string name="default_IP">10.125.103.171</string>-->
+    <!--<string name="default_Port">9000</string>-->
+    <string name="default_Port">5070</string>
+    <!--<string name="default_Name">asd</string>-->
+    <string name="default_Name">fair lady</string>
+    <string name="login_title">Welcome to ChatRoom</string>
+    <string name="friend_list_title">FriendList</string>
+    <string name="type_hint"> </string>
+    <string name="send_button_text">发送</string>
+    <string name="action_sip_start">initialize sip stack</string>
+    <string name="logout_button">Logout</string>
+    <string name="change_status_button">change status</string>
+    <string name="title_select_status">可选在线状态</string>
+    <string name="select_status">选择状态</string>
+</resources>
