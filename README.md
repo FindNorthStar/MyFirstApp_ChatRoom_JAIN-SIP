@@ -11,3 +11,5 @@ The project includes a android client and a server. Both client and server commu
 The android JAIN-SIP sample code can be found on https://telestax.com/jain-sip-stack-for-android/ .
 
 The functions include multi chat, single chat ,friend list ,sending and receiving emoji ,changing online status.
+
+Thanks for the android emoji repository on https://github.com/shlsy/yykEmoji .
